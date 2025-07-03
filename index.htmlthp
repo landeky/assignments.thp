@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome | My e-Portfolio</title>
+
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -51,17 +52,36 @@
     </header>
 
     <nav>
-        <a href="index.html">Home</a>
-        <a href="coursework.html">Coursework</a>
-        <a href="hobbies.html">Hobbies</a>
-        <a href="resume.html">Resume</a>
+        <li><a href="index.html">Welcome/About Me</a></li>
+          <li><a href="coursework.html">Coursework</a></li>
+          <li><a href="hobbies.html">Hobbies</a></li>
+          <li><a href="resume.html">Resume</a></li>
     </nav>
-
+<main>
     <section>
+
+              <h2>About Me</h2>
+        <p>Hi, I'm Takylah Hatcher Powell, a student at WCCS. This portfolio showcases my coursework, hobbies, resume, and more. Explore the different pages to learn more about my academic journey and personal interests.</p>
+        <p>Use the navigation bar to explore more:</p>
+        <ul>
+            <li><strong>Coursework</strong>: Classes I've completed, am taking, or plan to take.</li>
+            <li><strong>Hobbies</strong>: What I enjoy outside of school.</li>
+            <li><strong>Resume</strong>: My resume and experience overview.</li>
+            <li><strong>Projects</strong>: Some of the work I've done.</li>
+            <li><strong>Contact</strong>: How to get in touch with me.</li>
+        </ul>
+
+        
+
         <h2>About Me</h2>
         <p>Hello! I'm [Your Name], a student at WCCS. This portfolio showcases my coursework, hobbies, resume, and more. Explore the different pages to learn more about my academic journey and personal interests.</p>
         <p>Feel free to browse through my coursework, discover my hobbies, and download my resume!</p>
     </section>
+    <main>
+
+ <footer>
+      &copy; 2025 My e-Portfolio
+    </footer>
 
 </body>
 
